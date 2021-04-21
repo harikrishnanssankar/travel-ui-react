@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/travel-react-ui/static/css/main.372c917a.chunk.css",
-    "main.js": "/travel-react-ui/static/js/main.63436471.chunk.js",
-    "main.js.map": "/travel-react-ui/static/js/main.63436471.chunk.js.map",
-    "runtime-main.js": "/travel-react-ui/static/js/runtime-main.213bbc95.js",
-    "runtime-main.js.map": "/travel-react-ui/static/js/runtime-main.213bbc95.js.map",
-    "static/js/2.f0a2609a.chunk.js": "/travel-react-ui/static/js/2.f0a2609a.chunk.js",
-    "static/js/2.f0a2609a.chunk.js.map": "/travel-react-ui/static/js/2.f0a2609a.chunk.js.map",
-    "static/js/3.1fd24136.chunk.js": "/travel-react-ui/static/js/3.1fd24136.chunk.js",
-    "static/js/3.1fd24136.chunk.js.map": "/travel-react-ui/static/js/3.1fd24136.chunk.js.map",
-    "index.html": "/travel-react-ui/index.html",
-    "static/css/main.372c917a.chunk.css.map": "/travel-react-ui/static/css/main.372c917a.chunk.css.map",
-    "static/js/2.f0a2609a.chunk.js.LICENSE.txt": "/travel-react-ui/static/js/2.f0a2609a.chunk.js.LICENSE.txt"
+    "main.css": "/travel-ui-react/static/css/main.372c917a.chunk.css",
+    "main.js": "/travel-ui-react/static/js/main.63436471.chunk.js",
+    "main.js.map": "/travel-ui-react/static/js/main.63436471.chunk.js.map",
+    "runtime-main.js": "/travel-ui-react/static/js/runtime-main.4d101a5c.js",
+    "runtime-main.js.map": "/travel-ui-react/static/js/runtime-main.4d101a5c.js.map",
+    "static/js/2.f0a2609a.chunk.js": "/travel-ui-react/static/js/2.f0a2609a.chunk.js",
+    "static/js/2.f0a2609a.chunk.js.map": "/travel-ui-react/static/js/2.f0a2609a.chunk.js.map",
+    "static/js/3.1fd24136.chunk.js": "/travel-ui-react/static/js/3.1fd24136.chunk.js",
+    "static/js/3.1fd24136.chunk.js.map": "/travel-ui-react/static/js/3.1fd24136.chunk.js.map",
+    "index.html": "/travel-ui-react/index.html",
+    "static/css/main.372c917a.chunk.css.map": "/travel-ui-react/static/css/main.372c917a.chunk.css.map",
+    "static/js/2.f0a2609a.chunk.js.LICENSE.txt": "/travel-ui-react/static/js/2.f0a2609a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.213bbc95.js",
+    "static/js/runtime-main.4d101a5c.js",
     "static/js/2.f0a2609a.chunk.js",
     "static/css/main.372c917a.chunk.css",
     "static/js/main.63436471.chunk.js"
